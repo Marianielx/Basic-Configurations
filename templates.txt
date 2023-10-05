@@ -1,0 +1,9 @@
+Templates Examples
+1-https://themewagon.github.io/AI-html/
+2-https://themewagon.github.io/blogy/index.html
+3-https://themewagon.github.io/photozone/
+4-https://startbootstrap.com
+5-https://startbootstrap.com/previews/clean-blog#google_vignette
+
+Template em uso no CDB
+https://startbootstrap.com/previews/clean-blog#google_vignette
