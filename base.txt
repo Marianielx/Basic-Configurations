@@ -5,33 +5,7 @@ composer install
 composer update
 php artisan migrate
 
---------Breeze Instalation ----------
-<<<<<<< HEAD
-composer require laravel/breeze --dev
-php artisan breeze:install
-=======
-php artisan breeze:install 
->>>>>>> b82b84fff15b20c2929ba163afb21b3193234ae1
-npm install
-npm run dev
-php artisan migrate
-----------------End Brezze-----------
-
-<<<<<<< HEAD
---------- Regulation Authentication ------------
-=======
------------ Auth ------------
->>>>>>> b82b84fff15b20c2929ba163afb21b3193234ae1
-composer require laravel/ui
-php artisan ui bootstrap
-php artisan ui bootstrap --auth
-npm install
-npm run dev
-<<<<<<< HEAD
--------------------End Auth -----------------------------
-=======
-------------------------------
->>>>>>> b82b84fff15b20c2929ba163afb21b3193234ae1
+composer require realrashid/sweet-alert
 
 https://laravel.com/docs/8.x/installation
 https://www.youtube.com/watch?v=q_-hAfYDmnE
